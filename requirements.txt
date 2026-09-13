@@ -1,6 +1,0 @@
-aiogram>=3.0.0
-fastapi
-uvicorn
-jinja2
-aiosqlite
-python-multipart
